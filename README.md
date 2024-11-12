@@ -6,7 +6,7 @@ Follow the steps below to setup and run the **YData Profiling Script (profiling.
 ## 1. Install Python (Only Required on 1st Run)
 
 1. Download and install Python from [https://www.python.org/downloads/](https://www.python.org/downloads/).  
-2. Follow the installation instructions, and ensure that the option to **"Add Python to PATH"** is checked during installation.  
+2. Follow the installation instructions, and if prompted, ensure that the option to **"Add Python to PATH"** is checked during installation.  
 3. **Verify Python Installation**:
    - Open your terminal (Command Prompt on Windows, Terminal on macOS).
    - Type the following command and hit Enter:
@@ -15,7 +15,7 @@ Follow the steps below to setup and run the **YData Profiling Script (profiling.
      ```
    - If installed correctly, this should display the version number of Python installed (e.g., `Python 3.10.2`).  
 
-<br>
+
 
 ## 2. Install Required Libraries (Only Required on 1st Run)
 
@@ -30,7 +30,7 @@ Follow the steps below to setup and run the **YData Profiling Script (profiling.
            - If you encounter an error, try: ``` pip3 install ydata-profiling ```  
 
 
-<br>
+
   
 ## 3. Run the Profiling Script
 
