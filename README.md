@@ -19,12 +19,12 @@ Follow the steps below to install the necessary components and run the **YData P
 
 ### Install Pandas (Python Data Analysis Library)
 
-1. In the terminal, type: ``` pip install pandas ```
+- In the terminal, type: ``` pip install pandas ```
             - If you encounter an error, try: ``` pip3 install pandas ```
 
 ### Install YData Profiling
 
-1. In the terminal, type: ``` pip install ydata-profiling ```
+- In the terminal, type: ``` pip install ydata-profiling ```
            - If you encounter an error, try: ``` pip3 install ydata-profiling ```
 
 
