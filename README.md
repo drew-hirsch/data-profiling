@@ -2,7 +2,7 @@
 
 Follow the steps below to install the necessary components and run the **YData Profiling Script (profiling.py)** on both Windows and macOS to generate a summary report of a CSV dataset.  
 
-
+<br>
 ## 1. Install Python (Only Required on 1st Run)
 
 1. Download and install Python from [https://www.python.org/downloads/](https://www.python.org/downloads/).  
@@ -15,7 +15,7 @@ Follow the steps below to install the necessary components and run the **YData P
      ```
    - If installed correctly, this should display the version number of Python installed (e.g., `Python 3.10.2`).  
 
-
+<br>
 ## 2. Install Required Libraries (Only Required on 1st Run)
 
 ### Install Pandas (Python Data Analysis Library)
@@ -28,7 +28,7 @@ Follow the steps below to install the necessary components and run the **YData P
 - In the terminal, type: ``` pip install ydata-profiling ```
            - If you encounter an error, try: ``` pip3 install ydata-profiling ```  
 
-
+<br>
    
 ## 3. Run the Profiling Script
 
