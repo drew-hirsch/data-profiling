@@ -1,6 +1,6 @@
 # YData Profiling Script - Instructions
 
-Follow the steps below to install the necessary components and run the **YData Profiling Script (profiling.py)** to generate a summary report of a CSV dataset.  
+Follow the steps below to setup and run the **YData Profiling Script (profiling.py)** to generate a summary report of a CSV dataset.  
 
 
 ## 1. Install Python (Only Required on 1st Run)
